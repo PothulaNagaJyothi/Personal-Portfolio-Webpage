@@ -1,6 +1,6 @@
 # Personal-Portfolio-Webpage
 
-
+AI TOOL used : Replit AI 
 
 ## Overview
 A fully responsive personal portfolio webpage built with pure HTML5 and CSS3 only. The project demonstrates modern web design principles and responsive layouts without using any frameworks or JavaScript.
@@ -10,7 +10,7 @@ A fully responsive personal portfolio webpage built with pure HTML5 and CSS3 onl
 .
 ├── index.html      # Main HTML structure
 ├── styles.css      # Responsive CSS styling with CSS-only hamburger menu
-└── readme.md       # Project documentation
+└── README.md       # Project documentation
 ```
 
 ## Features
@@ -31,9 +31,36 @@ A fully responsive personal portfolio webpage built with pure HTML5 and CSS3 onl
 - No JavaScript or frameworks
 
 ## Recent Changes
-- 2024-11-18: Initial portfolio webpage creation
+- 2025-11-18: Initial portfolio webpage creation
   - Created responsive HTML structure with all required sections
   - Implemented mobile-first CSS with three responsive breakpoints
   - Added CSS-only hamburger menu navigation using checkbox technique
   - Configured workflow to serve website on port 5000
   - Removed JavaScript dependency for pure HTML/CSS implementation
+ 
+
+  ## My Changes
+  - I have changes the logo name to my name Naga Jyothi Pothula.
+  - I have modified the text in the footer section.
+  - I have added my own LinkedIn ,Github profile replacing the links the replit provided.
+  - I have added my mail id in plce of twitter link in the portfolio created by replit.
+  - I have edited the text in the copyright sentence in the footer section.
+
+
+  ## Scrrenshots of the Responsive Personal Portfolio Web Page
+   ## Screenshots of Desktop view 
+    ![alt text](<Screenshot 2025-11-18 162342.png>)
+    ![alt text](<Screenshot 2025-11-18 162358.png>) 
+    ![alt text](<Screenshot 2025-11-18 162414.png>) 
+
+
+   ## Screenshots of Tablet view
+    ![alt text](<Screenshot 2025-11-18 162459.png>) 
+    ![alt text](<Screenshot 2025-11-18 162522.png>) 
+    ![alt text](<Screenshot 2025-11-18 162538.png>) 
+   
+   
+   ## Screenshots of Mobile view
+    ![alt text](<Screenshot 2025-11-18 162600.png>) 
+    ![alt text](<Screenshot 2025-11-18 162614.png>) 
+    ![alt text](<Screenshot 2025-11-18 162633.png>)
