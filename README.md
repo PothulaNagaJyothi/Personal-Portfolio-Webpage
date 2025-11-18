@@ -48,19 +48,29 @@ A fully responsive personal portfolio webpage built with pure HTML5 and CSS3 onl
 
 
   ## Scrrenshots of the Responsive Personal Portfolio Web Page
+  
    ## Screenshots of Desktop view 
+
     ![alt text](<Screenshot 2025-11-18 162342.png>)
-    ![alt text](<Screenshot 2025-11-18 162358.png>) 
+
+    ![alt text](<Screenshot 2025-11-18 162358.png>)
+
     ![alt text](<Screenshot 2025-11-18 162414.png>) 
 
 
    ## Screenshots of Tablet view
+
     ![alt text](<Screenshot 2025-11-18 162459.png>) 
+   
     ![alt text](<Screenshot 2025-11-18 162522.png>) 
+   
     ![alt text](<Screenshot 2025-11-18 162538.png>) 
    
    
    ## Screenshots of Mobile view
+   
     ![alt text](<Screenshot 2025-11-18 162600.png>) 
+   
     ![alt text](<Screenshot 2025-11-18 162614.png>) 
+   
     ![alt text](<Screenshot 2025-11-18 162633.png>)
