@@ -47,7 +47,7 @@ A fully responsive personal portfolio webpage built with pure HTML5 and CSS3 onl
   - I have edited the text in the copyright sentence in the footer section.
 
 
-## Scrrenshots of the Responsive Personal Portfolio Web Page
+## Screenshots of the Responsive Personal Portfolio Web Page
 
   ## Screenshots of Desktop view
 
